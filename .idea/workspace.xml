@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a3f91f2-8a3f-438a-9892-51aa807989c7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Sendex.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webServers.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/build.config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/build.model.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/build.transport.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/data/transport.chunks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/data/transport.menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/data/transport.plugins.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/data/transport.settings.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/data/transport.snippets.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/includes/functions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/properties/properties.modextra.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/properties/properties.sendex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/resolvers/resolve.chunks.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/resolvers/resolve.office.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/resolvers/resolve.setup.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/resolvers/resolve.tables.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_build/setup.options.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/connector.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/css/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/css/mgr/bootstrap.buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/css/mgr/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/mgr/misc/combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/mgr/misc/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/mgr/sections/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/mgr/sendex.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/mgr/widgets/home.panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/mgr/widgets/items.grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/mgr/widgets/items.windows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/office/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/office/home.panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/office/items.grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/components/sendex/js/office/items.windows.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/controllers/home.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/controllers/office/sendex.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/docs/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/docs/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/docs/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/elements/chunks/chunk.item.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/elements/chunks/chunk.office.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/elements/plugins/plugin.sendex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/elements/snippets/snippet.sendex.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/elements/templates/home.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/lexicon/en/default.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/lexicon/en/properties.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/lexicon/en/setting.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/lexicon/ru/default.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/lexicon/ru/properties.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/lexicon/ru/setting.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/model/schema/sendex.mysql.schema.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/model/sendex/metadata.mysql.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/model/sendex/mysql/sendexitem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/model/sendex/mysql/sendexitem.map.inc.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/model/sendex/sendex.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/model/sendex/sendexitem.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/mgr/item/create.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/mgr/item/disable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/mgr/item/enable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/mgr/item/get.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/mgr/item/getlist.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/mgr/item/remove.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/mgr/item/update.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/office/item/create.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/office/item/disable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/office/item/enable.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/office/item/get.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/office/item/getlist.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/office/item/remove.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/core/components/sendex/processors/office/item/update.class.php" />
+    </list>
+    <ignored path="Sendex.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Sendex" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Dokaweb Studio" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="&lt;3e068f6e-97d8-4022-a268-6d3181190bb0&gt;/Sendex/test.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="E:\Докавеб\Мои сайты\Компоненты\MODX" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="238" />
+    <option name="y" value="45" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHP" />
+              <option name="myItemType" value="com.jetbrains.php.config.PhpExternalLibrariesNodePatcher$PatchedLibraryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MODX" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sendex" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d7effa1a4a322478cd29c826b52a0c118ad3db11/cmd/git.exe" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a3f91f2-8a3f-438a-9892-51aa807989c7" name="Default" comment="" />
+      <created>1484238924291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484238924291</updated>
+      <workItem from="1484238925957" duration="5187000" />
+      <workItem from="1484673631515" duration="2320000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7507000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="238" y="45" width="1400" height="1000" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32910448" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25746268" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32922733" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985073" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936978" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первая версия компонента.&#10;Нет никаких изменений в сравнее со стандартным modExtra&#10;-----&#10;The first version of the component.&#10;There is no change in sawnee with standard modExtra" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первая версия компонента.&#10;Нет никаких изменений в сравнее со стандартным modExtra&#10;-----&#10;The first version of the component.&#10;There is no change in sawnee with standard modExtra" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../../MODX/core/xpdo/xpdo.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="251" column="11" selection-start-line="251" selection-start-column="11" selection-end-line="251" selection-end-column="11" />
+          <folding>
+            <marker date="1483436692000" expanded="true" signature="44361:44409" placeholder="SELECT COUNT... $" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/rename_it.php" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

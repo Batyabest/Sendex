@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3e068f6e-97d8-4022-a268-6d3181190bb0" name="Develop" url="http://sopteh.beget.tech">
+        <fileTransfer host="sopteh.beget.tech" port="22" rootFolder="/home/s/sopteh/develop.sopteh.beget.tech/public_html" accessType="SFTP" password="dfd2dfcfdfefdf99df99df80dfebdfce" username="sopteh_develop">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
