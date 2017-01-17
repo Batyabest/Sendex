@@ -7,10 +7,10 @@
     <orderEntry type="module-library">
       <library name="PHP">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../../MODX" />
+          <root url="file://E:/Докавеб/Мои сайты/Компоненты/MODX" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/../../MODX" />
+          <root url="file://E:/Докавеб/Мои сайты/Компоненты/MODX" />
         </SOURCES>
       </library>
     </orderEntry>
